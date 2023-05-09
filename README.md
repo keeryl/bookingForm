@@ -1,5 +1,7 @@
 # MEETING ROOM BOOKING FORM
 
+<img width="769" alt="Снимок экрана 2023-05-09 в 21 20 03" src="https://github.com/keeryl/bookingForm/assets/76181856/1f5bbaed-b70a-47ab-949a-c06eef68a98c">
+
 Test task
 
 ## Available Scripts
